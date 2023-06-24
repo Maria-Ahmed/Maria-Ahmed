@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maria-Ahmed
-- 👀 I’m interested in python, data engineering, analytics and AI.
-- 🌱 I’m currently learning tech stacks to build platforms for various startups
+- 👀 I’m interested in Data Engineering, Analytics, AI, and Product Management.
+- 🌱 I’m currently working as a 'Data and Analytics Engineer' to build platforms for unicorn startups.
+- 💡 I love reading, vintage music, playing chess, and following soccer. 
 - 📫 How to reach me: ahmedmaria241@gmail.com
 
 <!---
